@@ -18,9 +18,8 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #10b91e, #0077fe);
   min-height: 100vh;
 }
 
@@ -36,7 +35,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #1eb31c;
   cursor: pointer;
   transition: border-color 0.25s;
 }
